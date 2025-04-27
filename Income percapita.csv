@@ -1,0 +1,93 @@
+city_id,State,District Name,Year,BEA Per Capita Personal Income
+1,IL,Chicago,2023,61691
+1,IL,Chicago,2022,58705
+1,IL,Chicago,2021,57147
+1,IL,Chicago,2020,53106
+1,IL,Chicago,2019,49897
+1,IL,Chicago,2018,48628
+1,IL,Chicago,2017,46894
+1,IL,Chicago,2016,45180
+1,IL,Chicago,2015,44483
+1,IL,Chicago,2014,42646
+1,IL,Chicago,2013,41619
+1,IL,Chicago,2012,40756
+1,IL,Chicago,2011,39567
+1,IL,Chicago,2008,38558
+1,IL,Chicago,2007,37868
+1,IL,Chicago,2010,37777
+1,IL,Chicago,2009,37070
+1,IL,Chicago,2006,36754
+1,IL,Chicago,2005,34695
+1,IL,Chicago,2004,33477
+1,IL,Chicago,2003,32653
+1,IL,Chicago,2002,32052
+1,IL,Chicago,2001,31511
+2,NY,New York City,2023,93815
+2,NY,New York City,2022,88513
+2,NY,New York City,2021,86856
+2,NY,New York City,2020,81200
+2,NY,New York City,2019,77017
+2,NY,New York City,2018,73887
+2,NY,New York City,2017,71457
+2,NY,New York City,2016,67781
+2,NY,New York City,2015,66225
+2,NY,New York City,2014,63965
+2,NY,New York City,2012,62810
+2,NY,New York City,2013,61927
+2,NY,New York City,2011,58824
+2,NY,New York City,2008,57998
+2,NY,New York City,2007,56647
+2,NY,New York City,2010,56635
+2,NY,New York City,2009,55516
+2,NY,New York City,2006,53006
+2,NY,New York City,2005,49131
+2,NY,New York City,2004,46676
+2,NY,New York City,2003,43717
+2,NY,New York City,2001,43445
+2,NY,New York City,2002,42792
+3,CA,Los Angeles,2001,48603
+3,CA,Los Angeles,2002,47059
+3,CA,Los Angeles,2003,47773
+3,CA,Los Angeles,2004,50047
+3,CA,Los Angeles,2005,52783
+3,CA,Los Angeles,2006,57302
+3,CA,Los Angeles,2007,60059
+3,CA,Los Angeles,2008,60150
+3,CA,Los Angeles,2009,56751
+3,CA,Los Angeles,2010,58900
+3,CA,Los Angeles,2011,62879
+3,CA,Los Angeles,2012,67492
+3,CA,Los Angeles,2013,67873
+3,CA,Los Angeles,2014,72294
+3,CA,Los Angeles,2015,78173
+3,CA,Los Angeles,2016,82814
+3,CA,Los Angeles,2017,88669
+3,CA,Los Angeles,2018,95358
+3,CA,Los Angeles,2019,99767
+3,CA,Los Angeles,2020,108696
+3,CA,Los Angeles,2021,124489
+3,CA,Los Angeles,2022,123760
+3,CA,Los Angeles,2023,131236
+4,GA,Atlanta,2001,37121
+4,GA,Atlanta,2002,37232
+4,GA,Atlanta,2003,37765
+4,GA,Atlanta,2004,39281
+4,GA,Atlanta,2005,40966
+4,GA,Atlanta,2006,42734
+4,GA,Atlanta,2007,43407
+4,GA,Atlanta,2008,42176
+4,GA,Atlanta,2009,40379
+4,GA,Atlanta,2010,40887
+4,GA,Atlanta,2011,43468
+4,GA,Atlanta,2012,43962
+4,GA,Atlanta,2013,44021
+4,GA,Atlanta,2014,46965
+4,GA,Atlanta,2015,49289
+4,GA,Atlanta,2016,50946
+4,GA,Atlanta,2017,53795
+4,GA,Atlanta,2018,56130
+4,GA,Atlanta,2019,58676
+4,GA,Atlanta,2020,61316
+4,GA,Atlanta,2021,66661
+4,GA,Atlanta,2022,68363
+4,GA,Atlanta,2023,71832
